@@ -19,7 +19,7 @@ I've used a variety of Machine Learning algorithms, implemented in Python, to pr
 
 #### _Accuracy achieved: 86.88% (Random Forest)_
 
-#### _Accuracy achieved: 75.41% (KNearestBeighbors)_
+#### _Accuracy achieved: 75.41% (KNearestNeighbors)_
 
 #### _Accuracy achieved: 88.52% (LogisticRegression)_
 
