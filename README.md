@@ -1,4 +1,4 @@
-## **_Heart Disease Prediction_**
+## **_💓 Heart Disease Prediction_**
 
 A machine learning model able to classify whether or not a person has a heart disease.
 Heart-Disease-Prediction-using-Machine-Learning
